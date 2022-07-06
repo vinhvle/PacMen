@@ -5,7 +5,7 @@ Click the Add Pac Man button to add Pac Man avatars to the current window. Click
 
 Roadmap of Future Improvements
 
-Detect and respond to collisions between the Pac Man avatars
+Detect and respond to collisions between the Pac Man avatars;
 The Pac Man avatars should face the direction they are headed
 
 License Information
